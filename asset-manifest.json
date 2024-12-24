@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.6416cd6c.css",
-    "main.js": "/static/js/main.4de126e7.js",
-    "static/js/488.d07c9134.chunk.js": "/static/js/488.d07c9134.chunk.js",
-    "static/media/ldefari_profile.jpg": "/static/media/ldefari_profile.04b4273cf6392fdf04b4.jpg",
-    "index.html": "/index.html",
-    "main.6416cd6c.css.map": "/static/css/main.6416cd6c.css.map",
-    "main.4de126e7.js.map": "/static/js/main.4de126e7.js.map",
-    "488.d07c9134.chunk.js.map": "/static/js/488.d07c9134.chunk.js.map"
+    "main.css": "./static/css/main.6416cd6c.css",
+    "main.js": "./static/js/main.a0141cac.js",
+    "static/js/488.d07c9134.chunk.js": "./static/js/488.d07c9134.chunk.js",
+    "static/media/ldefari_profile.jpg": "./static/media/ldefari_profile.04b4273cf6392fdf04b4.jpg",
+    "index.html": "./index.html",
+    "main.6416cd6c.css.map": "./static/css/main.6416cd6c.css.map",
+    "main.a0141cac.js.map": "./static/js/main.a0141cac.js.map",
+    "488.d07c9134.chunk.js.map": "./static/js/488.d07c9134.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6416cd6c.css",
-    "static/js/main.4de126e7.js"
+    "static/js/main.a0141cac.js"
   ]
 }
