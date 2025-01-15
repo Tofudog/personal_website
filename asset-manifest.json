@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.0e740305.css",
-    "main.js": "/personal_website/static/js/main.dceea942.js",
+    "main.css": "/personal_website/static/css/main.696111d1.css",
+    "main.js": "/personal_website/static/js/main.b7570685.js",
     "static/js/488.d07c9134.chunk.js": "/personal_website/static/js/488.d07c9134.chunk.js",
     "static/media/ness_photo.png": "/personal_website/static/media/ness_photo.5a36ad52157033f5399d.png",
     "static/media/ldefari_profile.jpg": "/personal_website/static/media/ldefari_profile.04b4273cf6392fdf04b4.jpg",
+    "static/media/apple.png": "/personal_website/static/media/apple.c01a62a2c86b14358760.png",
     "static/media/funny_meme1.png": "/personal_website/static/media/funny_meme1.6323de81993546486aac.png",
+    "static/media/banana.png": "/personal_website/static/media/banana.704cfce64536c493526d.png",
     "index.html": "/personal_website/index.html",
-    "main.0e740305.css.map": "/personal_website/static/css/main.0e740305.css.map",
-    "main.dceea942.js.map": "/personal_website/static/js/main.dceea942.js.map",
+    "main.696111d1.css.map": "/personal_website/static/css/main.696111d1.css.map",
+    "main.b7570685.js.map": "/personal_website/static/js/main.b7570685.js.map",
     "488.d07c9134.chunk.js.map": "/personal_website/static/js/488.d07c9134.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e740305.css",
-    "static/js/main.dceea942.js"
+    "static/css/main.696111d1.css",
+    "static/js/main.b7570685.js"
   ]
 }
